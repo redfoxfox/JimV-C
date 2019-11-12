@@ -99,6 +99,7 @@ JimV 是一个，结构清晰简单，易于部署、维护、使用的，低门
 
 ## 问题反馈
 
+[BBS 社区](https://bbs.jimv.cn) <br>
 [提交Bug](https://github.com/jamesiter/JimV-C/issues) <br> 技术交流 QQ 群:
 377907881
 
